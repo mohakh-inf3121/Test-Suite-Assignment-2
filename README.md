@@ -5,9 +5,15 @@ some reason is not working you can import the individual test case files in this
 
 The correct ordering of the files if importing them one by one to Selenium:
 01 - Register
+
 07 - Log Out
+
 03 - Log In
+
 04 - Add Items to Cart
+
 05 - Remove Items from Cart
+
 06 - Re-Add Items to Cart
+
 06 - Finalize Order
